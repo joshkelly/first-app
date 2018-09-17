@@ -1,1 +1,3 @@
-This is a basic go program that can run in a container.
+This is a basic flask app that runs in a container.
+
+
