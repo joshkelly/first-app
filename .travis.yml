@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.6"
+  - "2.7"
+env:
+  - FLASK=0.11.1
+  - FLASK=0.10.1
